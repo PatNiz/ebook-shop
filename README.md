@@ -1,6 +1,6 @@
 Eureka:
 ![image](https://github.com/user-attachments/assets/8f089441-1a28-4afb-946b-fa4e8d926626)
-tunel ssh za pomocą https://localhost.run/
+tunel ssh with https://localhost.run/
 ![image](https://github.com/user-attachments/assets/c4077f9b-8e3c-4ce7-95ae-0d4b751b3766)
 Sample incoming confirmation email:
 ![image](https://github.com/user-attachments/assets/4ef37c2b-dce4-4e91-a8a1-994874948bc2)
